@@ -1,7 +1,8 @@
 {
   "name": "draw.io",
+  "displayName": "Draw.io",
   "version": "13.7.9",
-  "description": "diagrams.net desktop",
+  "description": "Draw.io desktop application",
   "main": "electron.js",
   "scripts": {
     "start": "electron ./drawio/src/main/webapp",
